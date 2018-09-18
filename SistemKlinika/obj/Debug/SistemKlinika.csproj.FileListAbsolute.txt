@@ -1,0 +1,16 @@
+C:\Users\Ridvan\source\repos\KlinikaGUI\SistemKlinika\obj\Debug\SistemKlinika.csproj.CoreCompileInputs.cache
+C:\Users\Ridvan\source\repos\KlinikaGUI\SistemKlinika\bin\Debug\SistemKlinika.dll
+C:\Users\Ridvan\source\repos\KlinikaGUI\SistemKlinika\bin\Debug\SistemKlinika.pdb
+C:\Users\Ridvan\source\repos\KlinikaGUI\SistemKlinika\bin\Debug\ClassLibrary1.dll
+C:\Users\Ridvan\source\repos\KlinikaGUI\SistemKlinika\bin\Debug\ClassLibrary1.pdb
+C:\Users\Ridvan\source\repos\KlinikaGUI\SistemKlinika\obj\Debug\SistemKlinika.csprojResolveAssemblyReference.cache
+C:\Users\Ridvan\source\repos\KlinikaGUI\SistemKlinika\obj\Debug\SistemKlinika.dll
+C:\Users\Ridvan\source\repos\KlinikaGUI\SistemKlinika\obj\Debug\SistemKlinika.pdb
+C:\Users\Ridvan\Desktop\KlinikaGUI\SistemKlinika\obj\Debug\SistemKlinika.csprojResolveAssemblyReference.cache
+C:\Users\Ridvan\Desktop\KlinikaGUI\SistemKlinika\obj\Debug\SistemKlinika.csproj.CoreCompileInputs.cache
+C:\Users\Ridvan\Desktop\KlinikaGUI\SistemKlinika\obj\Debug\SistemKlinika.dll
+C:\Users\Ridvan\Desktop\KlinikaGUI\SistemKlinika\obj\Debug\SistemKlinika.pdb
+C:\Users\Ridvan\Desktop\KlinikaGUI\SistemKlinika\bin\Debug\SistemKlinika.dll
+C:\Users\Ridvan\Desktop\KlinikaGUI\SistemKlinika\bin\Debug\SistemKlinika.pdb
+C:\Users\Ridvan\Desktop\KlinikaGUI\SistemKlinika\bin\Debug\ClassLibrary1.dll
+C:\Users\Ridvan\Desktop\KlinikaGUI\SistemKlinika\bin\Debug\ClassLibrary1.pdb
